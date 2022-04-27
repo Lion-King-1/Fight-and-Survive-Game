@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FirstExample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  3D_World_Traversal.cpp
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(238,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(410,20): warning C4018: '<': signed/unsigned mismatch
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(411,21): warning C4018: '<': signed/unsigned mismatch
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(415,99): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'GameObject_Type' can equal the given constant
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(415,134): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'GameObject_Type' can equal the given constant
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(451,20): warning C4018: '<': signed/unsigned mismatch
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(512,20): warning C4018: '<': signed/unsigned mismatch
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(658,22): warning C4305: '=': truncation from 'double' to 'GLfloat'
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(734,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(755,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(755,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\FirstExample\3D_World_Traversal.cpp(808,21): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  FirstExample.vcxproj -> E:\Textured_3D_Space_Traverse_With_Yaw_Pitch_GameScene_Collision\Debug\3D_World.exe
